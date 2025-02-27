@@ -318,4 +318,3 @@ Lembrando as formas: Threads, Pool, ou asyncio.
     - [Executor](https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Executor)
   - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html)
     - [Thread](https://docs.python.org/3/library/threading.html#threading.Thread)
-
